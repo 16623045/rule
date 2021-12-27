@@ -616,7 +616,8 @@ USER-AGENT,Moke*
 USER-AGENT,NeteaseMusic*
 USER-AGENT,QQ*
 USER-AGENT,MOO*
-USER-AGENT,TencentMidasConnect*USER-AGENT,RemotePlay*
+USER-AGENT,TencentMidasConnect*
+USER-AGENT,RemotePlay*
 USER-AGENT,TIM*
 USER-AGENT,TeamViewer*
 USER-AGENT,WeChat*
